@@ -39,7 +39,7 @@
     </widget>
    </item>
    <item row="7" column="3">
-    <widget class="QPushButton" name="pushButton_2">
+    <widget class="QPushButton" name="send_C_btn">
      <property name="text">
       <string>Send C to program</string>
      </property>
